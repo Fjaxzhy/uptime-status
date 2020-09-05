@@ -5,7 +5,7 @@ window.Config = {
   SiteName: '站点状态监控---KaguraYayoi',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: '/uptime-status/',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两种 Api Key
