@@ -7237,13 +7237,11 @@
                             text: "UptimeRobot"
                         })
                         , " 接口制作，检测频率 5 分钟")
-                    , o.a.createElement("p", null, "本站构建于 2020-04-08"
-                        //     , o.a.createElement(l, {
-                        //     to: "https://status.org.cn/",
-                        //     text: "STATUS.ORG.CN"
-                        // })
-                    ,o.a.createElement("p", null, "本站搭建于 2020-09-05" })
-                    )
+                    , o.a.createElement("p", null, "本站构建于 2020-09-05 主站 "
+                        , o.a.createElement(l, {
+                            to: "https://kagurayayoi.top/",
+                            text: "kagurayayoi.top"
+                        })
                 )
             )
         };
