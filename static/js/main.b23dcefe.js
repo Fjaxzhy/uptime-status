@@ -7242,6 +7242,7 @@
                         //     to: "https://status.org.cn/",
                         //     text: "STATUS.ORG.CN"
                         // })
+                    ,o.a.createElement("p", null, "本站搭建于 2020-09-05" })
                     )
                 )
             )
