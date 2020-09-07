@@ -8,7 +8,8 @@
 }
 
 body {
-    background: #f6f8fa url(../../static/media/background.b132844f.png) top;
+   /* background: #f6f8fa url(../../static/media/background.b132844f.png) top; */\
+    background: #C1CDCD
     color: #3f4347;
     font-size: 12px;
     font-family: sans-serif;
