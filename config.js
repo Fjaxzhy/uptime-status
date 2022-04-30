@@ -2,10 +2,10 @@
 window.Config = {
 
   // 站点名
-  SiteName: '站点状态监控---KaguraYayoi',
+  SiteName: '站点状态监控',
 
   // 站点链接
-  SiteUrl: '/uptime-status/',
+  SiteUrl: 'https://status.kagurayayoi.top',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两种 Api Key
@@ -32,8 +32,12 @@ window.Config = {
       url: 'https://github.com/Fjaxzhy/'
     },
     {
-      text: '博客',
+      text: '门户',
       url: 'https://kagurayayoi.top'
+    },
+    {
+      text: '博客',
+      url: 'https://kagurayayoi.top/blog'
     }
   ]
 };
