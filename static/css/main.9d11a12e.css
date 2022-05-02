@@ -9,6 +9,7 @@
 
 body {
     background: #f6f8fa url(https://kagurayayoi.top/blog/wp-content/uploads/2022/05/91622666_p7-scaled.jpg) top;
+    background-size:cover;
     color: #3f4347;
     font-size: 12px;
     font-family: sans-serif;
@@ -41,7 +42,8 @@ a {
     background: #fff;
     box-shadow: 0 1px 10px rgba(0, 0, 0, .05);
     border-bottom: 1px solid #e3e4e6;
-    z-index: 10
+    z-index: 10;
+    background-color: #8998eb
 }
 
 #header .container {
